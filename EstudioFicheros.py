@@ -5,4 +5,4 @@ except:
 else:
     lineas = (fichero.readlines())
     fichero.close
-    print( lineas)
+    print( "/n",lineas)
